@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-**hamzawhite/hamzawhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!---
+**hamzawhite/hamzawhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:
-
+--->
 🔭 I’m currently working on ...  
 * Data Science for social good
 * Spatial Data visualization
