@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 * Illustration
   
 🌱 I’m currently learning ...  
-* Game development
 * Machine learning
 * Product Design
+* 2D Animation
+* 2D Game development (Lua)
 * Github :)
   
 📫 How to reach me: ...  
