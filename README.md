@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 * Spatial Data visualization
 * Operations research
 * Asset management
-* Shiny Web applications
+* Shiny web applications
 * Illustration
   
 🌱 I’m currently learning ...  
