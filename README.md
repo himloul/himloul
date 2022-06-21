@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 --->
 🔭 I’m currently working on ...  
-* Data Science for social good
+* Data Science
 * Spatial Data visualization
 * Operations research
 * Asset management
