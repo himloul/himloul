@@ -5,19 +5,20 @@
 Here are some ideas to get you started:
 --->
 🔭 I’m currently working on ...  
+* NLP: Natural Language Processing
+* Training / Finetuning Transformers (e.g. GPT, BERT)
 * Data Science
-* Spatial Data visualization
-* Operations research
-* Asset management
-* Shiny web applications
-* Illustration
+* Data visualization
+* Mathematical Optimization
+* Web applications
+* Illustration - Pixel art
   
 🌱 I’m currently learning ...  
-* Machine learning
+* Deep learning - Transformers
 * Product Design
 * 2D Animation
-* 2D Game development (Lua)
-* Github :)
+* 2D Game development
+* Arduino, Robotics
   
 📫 How to reach me: ...  
   
