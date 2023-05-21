@@ -4,7 +4,7 @@
 **hamzawhite/hamzawhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:
 --->
-👨‍💻 Working on NLP, data science, web apps, and pixel art.  
+👨‍💻 Working on NLP, data science & Viz, web apps, and pixel art.  
 🌱 Learning deep learning, product design, animation, game development, and robotics.
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=himloul&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
