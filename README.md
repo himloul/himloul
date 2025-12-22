@@ -3,7 +3,8 @@
 Here are some ideas to get you started:
 --->
 - [x] Working on converting real-world challenges into structured data models.
-- [ ] Learning edge computing and embedded systems.
+- [ ] Currently improving retrieval systems to be more efficient.
+- [ ] Learning edge computing and embedded systems (cpp).
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=himloul&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
