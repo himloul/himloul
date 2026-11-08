@@ -1,3 +1,3 @@
-- [x] Converting real-world challenges into structured models.
-- [x] Improving the reliability of agentic systems.
-- [ ] Learning RL and robotics.
+- Converting real-world challenges into structured models
+- Improving the reliability of agentic systems
+- Learning RL and robotics
